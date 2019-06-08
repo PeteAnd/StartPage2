@@ -37,6 +37,14 @@ const MASTER_MAP = [
             {"name": "Item K", "shortcutKey": "c", "url": "https://google.com/?q=c"}
         ]
     }
+        {
+        "groupName": "Minchia",
+        "items":[
+            {"name": "Item I", "shortcutKey": "z", "url": "https://google.com/?q=z"},
+            {"name": "Item J", "shortcutKey": "x", "url": "https://google.com/?q=x"},
+            {"name": "Item K", "shortcutKey": "c", "url": "https://google.com/?q=c"}
+        ]
+    }
 ]
 
 let $container = document.getElementById("content");
